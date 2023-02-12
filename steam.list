@@ -1,0 +1,16 @@
+ - DOMAIN-SUFFIX,steam-chat.com, steam
+ - DOMAIN-SUFFIX,steamcommunity.com,steam
+ - DOMAIN-SUFFIX,steamgames.com,steam
+ - DOMAIN-SUFFIX,steampowered.com,steam
+ - DOMAIN-SUFFIX,steamstatic.com,steam
+ - DOMAIN-SUFFIX,steamstat.us,steam
+ - DOMAIN-SUFFIX,fanatical.com,steam
+ - DOMAIN-SUFFIX,humblebundle.com,steam
+ - DOMAIN-SUFFIX,steamcommunity.com,steam
+ - DOMAIN,steambroadcast.akamaized.net,steam
+ - DOMAIN,steamcdn-a.akamaihd.net,steam
+ - DOMAIN,steamcommunity-a.akamaihd.net,steam
+ - DOMAIN,steamstore-a.akamaihd.net,steam
+ - DOMAIN,steamusercontent-a.akamaihd.net,steam
+ - DOMAIN,steamuserimages-a.akamaihd.net,steam
+ - DOMAIN,steampipe.akamaized.net,steam
